@@ -1,7 +1,2 @@
-# Demo
+1. Open index.html in browser.
 
-Some description!
-
-## Subheader
-
-Watch tutorial on YouTube.
